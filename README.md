@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LatriceNwatu
-- 👀 I’m interested in programming
+- 👀 I’m interested in computer programming
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on beginner friendly projects that will advance my learning and skills
 - 📫 How to reach me latricenwatu@gmail.com
